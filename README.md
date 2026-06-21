@@ -1,2 +1,32 @@
-# Titanic-Survival-Prediction-Using-Machine-Learning
-Titanic Survival Prediction using Random Forest Classifier with 83.24% accuracy. Built using Python, Pandas, Scikit-Learn, Matplotlib, and Seaborn.
+# Titanic Survival Prediction Using Machine Learning
+
+## Objective
+Predict whether a passenger survived the Titanic disaster using machine learning.
+
+## Dataset
+Titanic Dataset from Kaggle.
+
+## Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
+## Data Preprocessing
+- Handled missing values.
+- Removed unnecessary columns.
+- Converted categorical variables to numerical format.
+
+## Model Used
+Random Forest Classifier
+
+## Model Accuracy
+83.24%
+
+## Evaluation
+Confusion Matrix
+
+## Outcome
+Built a supervised machine learning model capable of predicting passenger survival with 83.24% accuracy.
